@@ -1,3 +1,3 @@
-module github.com/carpenterscode/superscribe/receipt/v3
+module github.com/carpenterscode/superscribe/receipt
 
 go 1.14
